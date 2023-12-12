@@ -1,0 +1,20 @@
+body {
+    background-color: #f6f7f9;
+}
+
+.topDiv{
+    background-color: #efeff0;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.2);
+}
+
+.bottomDiv{
+    background-color: #efeff0;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.2);
+}
+
+.icon:hover{
+    opacity: 0.6;
+    transition: .4s;
+}
