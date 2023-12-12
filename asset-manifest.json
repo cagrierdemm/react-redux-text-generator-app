@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-redux-projects/react-redux-text-generator-app/static/css/main.d0b757fb.css",
-    "main.js": "/react-redux-projects/react-redux-text-generator-app/static/js/main.da8ad22d.js",
-    "static/js/787.85e5d93c.chunk.js": "/react-redux-projects/react-redux-text-generator-app/static/js/787.85e5d93c.chunk.js",
-    "index.html": "/react-redux-projects/react-redux-text-generator-app/index.html",
-    "main.d0b757fb.css.map": "/react-redux-projects/react-redux-text-generator-app/static/css/main.d0b757fb.css.map",
-    "main.da8ad22d.js.map": "/react-redux-projects/react-redux-text-generator-app/static/js/main.da8ad22d.js.map",
-    "787.85e5d93c.chunk.js.map": "/react-redux-projects/react-redux-text-generator-app/static/js/787.85e5d93c.chunk.js.map"
+    "main.css": "/react-redux-text-generator-app/static/css/main.d0b757fb.css",
+    "main.js": "/react-redux-text-generator-app/static/js/main.472ed7cf.js",
+    "static/js/787.85e5d93c.chunk.js": "/react-redux-text-generator-app/static/js/787.85e5d93c.chunk.js",
+    "index.html": "/react-redux-text-generator-app/index.html",
+    "main.d0b757fb.css.map": "/react-redux-text-generator-app/static/css/main.d0b757fb.css.map",
+    "main.472ed7cf.js.map": "/react-redux-text-generator-app/static/js/main.472ed7cf.js.map",
+    "787.85e5d93c.chunk.js.map": "/react-redux-text-generator-app/static/js/787.85e5d93c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0b757fb.css",
-    "static/js/main.da8ad22d.js"
+    "static/js/main.472ed7cf.js"
   ]
 }
